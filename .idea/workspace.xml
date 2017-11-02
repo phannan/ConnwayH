@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="28b40d26-bc28-48a9-a908-176930dabff3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_life.py" afterPath="$PROJECT_DIR$/test_life.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -185,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1509650065362</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="create base">
+      <created>1509652918406</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1509652918406</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -249,7 +255,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add test file and .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add test file and .gitignore" />
+    <MESSAGE value="create base" />
+    <option name="LAST_COMMIT_MESSAGE" value="create base" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
