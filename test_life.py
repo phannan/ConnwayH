@@ -1,16 +1,13 @@
 import unittest
-from unittest import TestCase
-import sys
-
-#class TestLife(unittest.TestCase):
-#    failIf = (1 == 1)
-
-#print(sys.version)
-
-class test_Life2(TestCase):
-    def test_red(self):
-        assert(1 == 11)
-      #  self.fail('red')
+from Conway.Conway import *
 
 
-#unittest.main()
+class test_Life(unittest.TestCase):
+
+      def test_life_smoke(self):
+        life = Life
+        self.assertEqual(1,1)
+
+
+if __name__ == '__main__':
+    unittest.main()
