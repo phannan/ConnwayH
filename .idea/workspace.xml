@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28b40d26-bc28-48a9-a908-176930dabff3" name="Default" comment="trying to birth some cells">
+    <list default="true" id="28b40d26-bc28-48a9-a908-176930dabff3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conway/Conway.py" afterPath="$PROJECT_DIR$/Conway/Conway.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_life.py" afterPath="$PROJECT_DIR$/test_life.py" />
     </list>
     <ignored path="C:\Users\Paula\Documents\GitHub\Conway\.idea\shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -263,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1510878441009</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="trying to birth some cells">
+      <created>1510878569697</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1510878569697</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -355,10 +360,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add test file and .gitignore" />
     <MESSAGE value="create base" />
-    <MESSAGE value="trying to birth some cells" />
     <MESSAGE value="backup for code retreat" />
     <MESSAGE value="Blank Slate for Code Retreat" />
-    <option name="LAST_COMMIT_MESSAGE" value="Blank Slate for Code Retreat" />
+    <MESSAGE value="trying to birth some cells" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying to birth some cells" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
