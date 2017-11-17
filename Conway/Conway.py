@@ -12,7 +12,3 @@ class Life(object):
     # def __init__(starting_point : set):
     def __init__(self):
       pass
-
-
-
-
