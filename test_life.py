@@ -1,5 +1,4 @@
 import unittest
-from Conway.Conway import *
 ## Overpopulation: if a living cell is surrounded by more than three living cells, it dies.
 ## Underpopulation: if a living cell is surrounded by fewer than two living cells, it dies.
 
