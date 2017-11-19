@@ -10,8 +10,7 @@ from Conway.Conway import *
 class conway_test(unittest.TestCase):
 #  Helps me make sure tests are running.
     def test_smoke(self):
-        Life()
-        self.assertEqual(True, True)
+        self.assertEqual(True, False)
 
 
 
