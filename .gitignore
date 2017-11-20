@@ -105,4 +105,9 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+LearningKatas.txt
+.idea/workspace.xml
+
 .gitignore
+.idea/dictionaries/
+.idea/shelf/
